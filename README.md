@@ -1,6 +1,6 @@
 # mikelehu.github.io
 <center>
-<img src="/images/argazkia.jpg" data-canonical-src="/images/argazkia.jpg" align="middle" width="200" height="200" />
+<img src="/images/argazkia.jpg" data-canonical-src="/images/argazkia.jpg" align="middle" width="100" height="80" />
 </center>
 
 <div style="text-align: justify">
