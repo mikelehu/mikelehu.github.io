@@ -39,7 +39,7 @@ I am a computer scientist and my research  focuses on analysis and implementatio
 
 
 <left>
-<img src="/images/11-Semi-Axis-Earth.jpg" data-canonical-src="/images/11-Semi-Axis-Earth.jpg" align="middle" width="100" height="80" />
+<img src="/images/11-Semi-Axis-Earth.png" data-canonical-src="/images/11-Semi-Axis-Earth.png" align="middle" width="100" height="80" />
 </left>
 
 *Evolution of semi-major axis of the earth.*
