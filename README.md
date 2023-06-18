@@ -24,6 +24,11 @@
 
 I am a computer scientist and my research  focuses on analysis and implementation of advanced methods for the numerical integration of problems modeled by ordinary differential equations.
 
+- Numerical integration of the solar system
+- Methods for propagation of satellite orbits
+- Gauss-Legendre methods
+- [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) a suite for numerically solving differential equations written in Julia
+
 &nbsp;
 
 ---
