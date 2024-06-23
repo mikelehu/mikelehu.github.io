@@ -1,14 +1,11 @@
-#  Mikel Antoñana
-
 
 
 <p float="left">
-<img src="/images/argazkia.jpg" data-canonical-src="/images/argazkia.jpg" align="middle" width="100" height="80" />
+<img src="/images/argazkia.jpg" data-canonical-src="/images/argazkia.jpg" align="middle" width="80" height="80" />
 </p>
 
 - **Professor** at the University of the Basque Country - UPV/EHU
-- **Faculty** of Enginering, Gipuzkoa
-- **Department**: Applied Mathematics
+- **Department**: Computer Science and Artificial Intelligence
 - **Email**: mikel.antonana@ehu.eus 
 
 
@@ -42,6 +39,7 @@ I am a computer scientist and my research  focuses on analysis and implementatio
 
     - [**FCIRK**](https://github.com/mikelehu/FCIRK). Flow-Composed Implicit Runge-Kutta 16th order (implementation in C language) 
     - [**IRKGaussLegendre.jl**](https://github.com/SciML/IRKGaussLegendre.jl). Julia package of a 16th order Implicit Runge-Kutta integrator IRKGL16 (a 8-stage IRK scheme based on Gauss-Legendre nodes) for high accuracy numerical integration of non-stiff ODE systems
+    - [**IRKGL_SIMD.jl**](https://github.com/mikelehu/IRKGL_SIMD.jl). SIMD-vectorized implementation of the sixteenth order 8-stage implicit Runge-Kutta integrator
     - [**NbodyIRKGL16.jl**](https://github.com/mikelehu/NbodyIRKGL16.jl). few-body integrator with time-reversible adaptivity in Julia
 
 
