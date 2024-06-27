@@ -35,7 +35,7 @@ I am a computer scientist and my research  focuses on analysis and implementatio
 - **Software**
 
     - [**IRK-FixedPoint**](https://github.com/mikelehu/IRK-FixedPoint). C language code of implicit Runge-Kutta method with fixed point iterations
-    - [**IRK-Newton**](https://github.com/mikelehu/IRK-Newton). C language code of implicit Runge-Kutta method with with simplified Newton iterations
+    - [**IRK-Newton**](https://github.com/mikelehu/IRK-Newton). C language code of implicit Runge-Kutta method with  simplified Newton iterations
 
     - [**FCIRK**](https://github.com/mikelehu/FCIRK). Flow-Composed Implicit Runge-Kutta 16th order (implementation in C language) 
     - [**IRKGaussLegendre.jl**](https://github.com/SciML/IRKGaussLegendre.jl). Julia package of a 16th order Implicit Runge-Kutta integrator IRKGL16 (a 8-stage IRK scheme based on Gauss-Legendre nodes) for high accuracy numerical integration of non-stiff ODE systems
@@ -52,3 +52,8 @@ I am a computer scientist and my research  focuses on analysis and implementatio
 <p align="center">
 *Evolution of semi-major axis of the earth.*
 </p>
+
+
+### Published
+
+June 27, 2024
