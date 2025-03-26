@@ -1,6 +1,6 @@
 
 
-%<p float="left">
+<p float="left">
 <img src="/images/argazkia.jpg" data-canonical-src="/images/argazkia.jpg" align="middle" width="80" height="80" />
 </p>
 
@@ -53,6 +53,6 @@ I am a computer scientist and my research  focuses on analysis and implementatio
 </p>
 
 
-### Published
+### Updated
 
 March 26, 2025
