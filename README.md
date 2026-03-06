@@ -41,7 +41,7 @@ I am a computer scientist and my research  focuses on analysis and implementatio
     - [**NbodyIRKGL16.jl**](https://github.com/mikelehu/NbodyIRKGL16.jl). few-body integrator with time-reversible adaptivity in Julia
     - [**Implicit symplectic can ouperform explicit symplectic**](https://github.com/mikelehu/Implicit_symplectic_can_outperform_explicit_symplectic). This repository contains the Julia implementation and numerical experiments supporting the article: SIMD-vectorized implicit symplectic integrators can outperform explicit symplectic ones (preprint arXiv:2511.03655)
   
-}
+
 
 
 &nbsp;
