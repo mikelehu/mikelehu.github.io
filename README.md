@@ -29,8 +29,7 @@ I am a computer scientist and my research  focuses on analysis and implementatio
 ##  Publications and Software
 
 
-- [**Research Group**:  Applied Mathematical Modeling, Statistics, and Optimization (MATHMODE) ](https://www.mathmode.science/)
-- [**Project Group**:  Geometric Numerical Integration and Applications ](http://www.gicas.uji.es/)
+- [**Reasearch Group**:  Geometric Numerical Integration and Applications ](http://www.gicas.uji.es/)
 - [**Publications (ORCID)**](https://orcid.org/0000-0002-7321-8882)
 - **Software**
 
@@ -40,6 +39,9 @@ I am a computer scientist and my research  focuses on analysis and implementatio
     - [**FCIRK**](https://github.com/mikelehu/FCIRK). Flow-Composed Implicit Runge-Kutta 16th order (implementation in C language) 
     - [**IRKGaussLegendre.jl**](https://github.com/SciML/IRKGaussLegendre.jl). Julia package of a 16th order Implicit Runge-Kutta integrator IRKGL16 (a 8-stage IRK scheme based on Gauss-Legendre nodes) for high accuracy numerical integration of non-stiff ODE systems
     - [**NbodyIRKGL16.jl**](https://github.com/mikelehu/NbodyIRKGL16.jl). few-body integrator with time-reversible adaptivity in Julia
+    - [**Implicit symplectic can ouperform explicit symplectic**](https://github.com/mikelehu/Implicit_symplectic_can_outperform_explicit_symplectic). This repository contains the Julia implementation and numerical experiments supporting the article: SIMD-vectorized implicit symplectic integrators can outperform explicit symplectic ones (preprint arXiv:2511.03655)
+  
+}
 
 
 &nbsp;
@@ -55,4 +57,4 @@ I am a computer scientist and my research  focuses on analysis and implementatio
 
 ### Updated
 
-March 26, 2025
+March 6, 2026
